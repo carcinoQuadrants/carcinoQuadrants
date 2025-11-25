@@ -4,7 +4,7 @@
 <p align="center">
   <a href="https://carcinoquadrants.straw.page">straw</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://files.catbox.moe/0oj8j5.png" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
- <a href="https://rentry.co/carcinoquadrants.straw.page">rentry</a>
+ <a href="https://rentry.co/carcinoquadrants">rentry</a>
 </p>
 
  <p align="center">
